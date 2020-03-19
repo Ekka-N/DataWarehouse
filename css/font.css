@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Helvetica;
+    src: url(../font/Helvetica_regular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Helvetica;
+    src: url(../font/Helvetica_bold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir;
+    src: url(../font/Avenir.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir;
+    src: url(../font/Avenir-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
